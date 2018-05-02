@@ -2,7 +2,7 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
-Regression model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts, which predicts the meadia values of the house.
+A Regression model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts, which predicts the median values of the house.
 
 ### Data
 
